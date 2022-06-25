@@ -1,5 +1,5 @@
 
-#include <m=stdio.h>
+#include <stdio.h>
 #include <graphics.h>
 int main()
 {
