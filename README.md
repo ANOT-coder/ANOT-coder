@@ -1,7 +1,7 @@
 <!-- Dark, minimal, modern GitHub Profile README -->
 
 <h1 align="center">Prasanna Shakya</h1>
-<h3 align="center">AI / Machine Learning Engineering Enthusiast</h3>
+<h3 align="center"> Data Science and AI/ML Enthusiast </h3>
 
 ---
 
