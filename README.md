@@ -1,56 +1,68 @@
-# About Me
+# Prasanna Shakya
 
-I am a Computer Engineering student at Himalaya College of Engineering, Tribhuvan University, with a focused interest in Artificial Intelligence and Machine Learning, particularly in Computer Vision and applied machine learning systems. I am driven by the challenge of transforming theoretical concepts into practical, data-driven solutions that solve real-world problems.
+Computer Engineering student at Himalaya College of Engineering, Tribhuvan University.  
+Focused on Artificial Intelligence, Machine Learning, and Computer Vision, with an interest in building practical, data-driven systems from solid theoretical foundations.
 
-I have hands-on experience working with Python, machine learning, and deep learning frameworks, with an emphasis on building, training, and evaluating models. I am comfortable working with both structured and unstructured data and value clean experimentation, reproducibility, and clarity in implementation.
-
-My project experience includes a CNN-based Emotional Intelligence Prediction system and multiple computer vision applications developed using OpenCV. In addition, I have built a Digital Financial Advisor for basic financial insights and a Diet Recommendation system based on user data, focusing on practical machine learning–driven decision support.
+I enjoy working across the full ML workflow — data preparation, model design, experimentation, and evaluation — with an emphasis on clarity, reproducibility, and real-world relevance.
 
 ---
 
-## Contact & Profiles
-
-- LinkedIn: https://linkedin.com/in/PrasannaShakya  
-- Email: computerengineering.edu.np@gmail.com  
-- GitHub: https://github.com/ANOT-coder
+## Areas of Interest
+- Machine Learning & Deep Learning
+- Computer Vision
+- Applied AI Systems
+- Data Analysis & Modeling
 
 ---
 
 ## Technical Skills
 
-**Programming & Core Tools**  
-Python, C++, Git, GitHub, Windows Terminal
+**Languages & Core Tools**  
+Python · C++ · Git · GitHub
 
-**Machine Learning & Data Science**  
-NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow
+**Machine Learning & Data**  
+NumPy · Pandas · scikit-learn · TensorFlow · Matplotlib · Seaborn
 
 **Computer Vision**  
-OpenCV, CNN-based model development
+OpenCV · CNN-based model development
 
 **Backend & Databases**  
-Flask, FastAPI, MySQL
+Flask · FastAPI · MySQL
 
-**Cloud & Deployment**  
+**Deployment & Cloud**  
 DigitalOcean
 
 ---
 
-## GitHub Statistics
+## Selected Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANOT-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+- **Emotional Intelligence Prediction**  
+  CNN-based model for emotion classification and analysis.
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ANOT-coder&theme=dark&hide_border=false)
+- **Computer Vision Applications**  
+  Image processing and vision pipelines built using OpenCV.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANOT-coder&theme=dark&hide_border=false&layout=compact)
+- **Digital Financial Advisor**  
+  ML-driven system providing basic financial insights from user data.
+
+- **Diet Recommendation System**  
+  Data-based diet suggestions using user attributes and constraints.
 
 ---
 
-## Top Contributions
+## Profiles & Contact
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=ANOT-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- GitHub: https://github.com/ANOT-coder  
+- LinkedIn: https://linkedin.com/in/PrasannaShakya  
+- Email: computerengineering.edu.np@gmail.com
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ANOT-coder&icon=0&color=0)
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANOT-coder&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANOT-coder&layout=compact&hide_border=true&theme=github_dark)
+
 
 
