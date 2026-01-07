@@ -3,12 +3,6 @@
 <h1 align="center">Prasanna Shakya</h1>
 <h3 align="center">AI / Machine Learning Engineering Enthusiast</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Interest-Computer%20Vision-020617?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Approach-Practical%20%26%20Data--Driven-020617?style=flat-square"/>
-</p>
-
 ---
 
 ## About Me
@@ -23,35 +17,30 @@ My work focuses on building **interpretable, efficient, and scalable ML pipeline
 using Python and modern ML frameworks.
 
 I have hands-on experience in:
-- Machine learning and deep learning workflows
-- CNN-based vision models
-- Data preprocessing, visualization, and analysis
-- Model evaluation and deployment-ready experimentation
+- Machine learning and deep learning workflows  
+- CNN-based vision models  
+- Data preprocessing, visualization, and analysis  
+- Model evaluation and deployment-ready experimentation  
 
 ---
 
-## Projects & Practical Work
+## Projects
 
-- **Emotional Intelligence Prediction System**  
-  CNN-based model for emotion classification from visual inputs
+| Project Name | Domain | Core Techniques | Description |
+|-------------|--------|-----------------|-------------|
+| Emotional Intelligence Prediction System | Computer Vision / Deep Learning | CNN, TensorFlow | Emotion classification from visual inputs using convolutional neural networks |
+| Computer Vision Applications | Computer Vision | OpenCV, Image Processing | Real-time image processing and vision-based applications |
+| Digital Financial Advisor | Applied Machine Learning | Rule-based logic, ML | System providing basic financial insights and recommendations |
+| Diet Recommendation System | Applied Machine Learning | Data Analysis, ML Logic | Personalized diet recommendations based on user data |
 
-- **Computer Vision Applications**  
-  Image processing and real-time vision tasks using OpenCV
-
-- **Digital Financial Advisor**  
-  Rule-based and ML-assisted system for basic financial insights
-
-- **Diet Recommendation System**  
-  Personalized diet suggestions using user data and ML logic
-
-These projects emphasize **practical decision support**, not just model accuracy.
+Each project emphasizes **practical decision support**, system design, and real-world usability.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-020617?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -96,8 +85,3 @@ These projects emphasize **practical decision support**, not just model accuracy
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ANOT-coder&color=12"/>
-</p>
