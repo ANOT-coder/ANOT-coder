@@ -29,7 +29,6 @@ I have hands-on experience in:
 | Project Name | Domain | Core Techniques | Description |
 |-------------|--------|-----------------|-------------|
 | Emotional Intelligence Prediction System | Computer Vision / Deep Learning | CNN, TensorFlow | Emotion classification from visual inputs using convolutional neural networks |
-| Computer Vision Applications | Computer Vision | OpenCV, Image Processing | Real-time image processing and vision-based applications |
 | Digital Financial Advisor | Applied Machine Learning | Rule-based logic, ML | System providing basic financial insights and recommendations |
 | Diet Recommendation System | Applied Machine Learning | Data Analysis, ML Logic | Personalized diet recommendations based on user data |
 
@@ -77,7 +76,7 @@ Each project emphasizes **practical decision support**, system design, and real-
 ## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Prasanna%20Shakya">
+  <a href="https://www.linkedin.com/in/prasanna-shakya-265731348/">
     <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:computerengineering.edu.np@gmail.com">
