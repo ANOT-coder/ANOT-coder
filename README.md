@@ -1,68 +1,103 @@
-# Prasanna Shakya
+<!-- Dark, minimal, modern GitHub Profile README -->
 
-Computer Engineering student at Himalaya College of Engineering, Tribhuvan University.  
-Focused on Artificial Intelligence, Machine Learning, and Computer Vision, with an interest in building practical, data-driven systems from solid theoretical foundations.
+<h1 align="center">Prasanna Shakya</h1>
+<h3 align="center">AI / Machine Learning Engineering Enthusiast</h3>
 
-I enjoy working across the full ML workflow — data preparation, model design, experimentation, and evaluation — with an emphasis on clarity, reproducibility, and real-world relevance.
-
----
-
-## Areas of Interest
-- Machine Learning & Deep Learning
-- Computer Vision
-- Applied AI Systems
-- Data Analysis & Modeling
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Interest-Computer%20Vision-020617?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Approach-Practical%20%26%20Data--Driven-020617?style=flat-square"/>
+</p>
 
 ---
 
-## Technical Skills
+## About Me
 
-**Languages & Core Tools**  
-Python · C++ · Git · GitHub
+I am a **Computer Engineering student** at **Himalaya College of Engineering**,  
+**Tribhuvan University**, with a strong academic and practical interest in  
+**Artificial Intelligence and Machine Learning**, particularly **Computer Vision**  
+and **applied ML systems**.
 
-**Machine Learning & Data**  
-NumPy · Pandas · scikit-learn · TensorFlow · Matplotlib · Seaborn
+I enjoy converting theoretical models into **real-world, data-driven solutions**.  
+My work focuses on building **interpretable, efficient, and scalable ML pipelines**  
+using Python and modern ML frameworks.
 
-**Computer Vision**  
-OpenCV · CNN-based model development
-
-**Backend & Databases**  
-Flask · FastAPI · MySQL
-
-**Deployment & Cloud**  
-DigitalOcean
+I have hands-on experience in:
+- Machine learning and deep learning workflows
+- CNN-based vision models
+- Data preprocessing, visualization, and analysis
+- Model evaluation and deployment-ready experimentation
 
 ---
 
-## Selected Projects
+## Projects & Practical Work
 
-- **Emotional Intelligence Prediction**  
-  CNN-based model for emotion classification and analysis.
+- **Emotional Intelligence Prediction System**  
+  CNN-based model for emotion classification from visual inputs
 
 - **Computer Vision Applications**  
-  Image processing and vision pipelines built using OpenCV.
+  Image processing and real-time vision tasks using OpenCV
 
 - **Digital Financial Advisor**  
-  ML-driven system providing basic financial insights from user data.
+  Rule-based and ML-assisted system for basic financial insights
 
 - **Diet Recommendation System**  
-  Data-based diet suggestions using user attributes and constraints.
+  Personalized diet suggestions using user data and ML logic
+
+These projects emphasize **practical decision support**, not just model accuracy.
 
 ---
 
-## Profiles & Contact
+## Tech Stack
 
-- GitHub: https://github.com/ANOT-coder  
-- LinkedIn: https://linkedin.com/in/PrasannaShakya  
-- Email: computerengineering.edu.np@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-020617?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANOT-coder&show_icons=true&hide_border=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANOT-coder&theme=dark&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANOT-coder&layout=compact&hide_border=true&theme=github_dark)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ANOT-coder&theme=dark&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANOT-coder&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
+---
 
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Prasanna%20Shakya">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:computerengineering.edu.np@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ANOT-coder&color=12"/>
+</p>
