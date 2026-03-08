@@ -9,27 +9,27 @@
 
 I am a **Computer Engineering student** at **Himalaya College of Engineering**,  
 **Tribhuvan University**, with a strong academic and practical interest in  
-**Artificial Intelligence and Machine Learning**, particularly **Computer Vision**  
+**Artificial Intelligence and Machine Learning**, **Backend Development**  
 and **applied ML systems**.
 
-I enjoy converting theoretical models into **real-world, data-driven solutions**.  
-My work focuses on building **interpretable, efficient, and scalable ML pipelines**  
-using Python and modern ML frameworks.
+I enjoy converting theoretical models into real-world, data-driven solutions.
+My work focuses on building interpretable, efficient, and scalable ML pipelines,
+and integrating them into backend systems and APIs for real-world applications using Python and modern ML frameworks.
 
 I have hands-on experience in:
 - Machine learning and deep learning workflows  
 - CNN-based vision models  
 - Data preprocessing, visualization, and analysis  
 - Model evaluation and deployment-ready experimentation  
-
+- Building REST APIs and backend services to integrate ML models into applications
 ---
 
 ## Projects
 
 | Project Name | Domain | Core Techniques | Description |
 |-------------|--------|-----------------|-------------|
+| Digital Financial Advisor | Applied Machine Learning | Rule-based logic, ML, Backend ( Python ) |  A Full Stack Web Application System providing financial insights and recommendations |
 | Emotional Intelligence Prediction System | Computer Vision / Deep Learning | CNN, TensorFlow | Emotion classification from visual inputs using convolutional neural networks |
-| Digital Financial Advisor | Applied Machine Learning | Rule-based logic, ML | System providing basic financial insights and recommendations |
 | Diet Recommendation System | Applied Machine Learning | Data Analysis, ML Logic | Personalized diet recommendations based on user data |
 
 Each project emphasizes **practical decision support**, system design, and real-world usability.
@@ -40,6 +40,7 @@ Each project emphasizes **practical decision support**, system design, and real-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-020617?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
