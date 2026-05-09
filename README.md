@@ -28,8 +28,9 @@ I have hands-on experience in:
 
 | Project Name | Domain | Core Techniques | Description |
 |-------------|--------|-----------------|-------------|
-| Digital Financial Advisor | Applied Machine Learning | Rule-based logic, ML, Backend ( Python ) |  A Full Stack Web Application System providing financial insights and recommendations |
-| Emotional Intelligence Prediction System | Computer Vision / Deep Learning | CNN, TensorFlow | Emotion classification from visual inputs using convolutional neural networks |
+| Digital Financial Advisor | Applied Machine Learning | Rule-based logic, ML, Backend ( Django) |  A Full Stack Web Application System providing financial insights and recommendations |
+| SignTales | Applied Machine Learning |  ML, NLP, Backend ( FastAPI ) |  A  Web Based System providing ASL Based animation for the stories to hearing impaired children |
+| Emotional Intelligence Prediction System | Computer Vision / Deep Learning | CNN, TensorFlow | Emotion classification from visual inputs using Convolutional Neural Network (CNN) |
 | Diet Recommendation System | Applied Machine Learning | Data Analysis, ML Logic | Personalized diet recommendations based on user data |
 
 Each project emphasizes **practical decision support**, system design, and real-world usability.
