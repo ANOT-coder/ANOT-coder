@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a **Computer Engineering student** at **Himalaya College of Engineering**,  
+I am a **Computer Engineering Graduate** from **Himalaya College of Engineering**,  
 **Tribhuvan University**, with a strong academic and practical interest in  
 **Artificial Intelligence and Machine Learning**, **Backend Development**  
 and **applied ML systems**.
